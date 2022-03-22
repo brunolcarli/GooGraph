@@ -52,7 +52,7 @@ I intend to relase in one or more jupyter notebook(s):
 ### Good luck for me.
 
 
-<img src="https://i.gifer.com/2vDa.gif" align="center" width="100" alt="Project icon">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39a46d0a-9d62-4a20-b00a-63a8b025f019/d464914-ae1c909b-c699-41fb-92de-5dca3d5be925.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5YTQ2ZDBhLTlkNjItNGEyMC1iMDBhLTYzYThiMDI1ZjAxOVwvZDQ2NDkxNC1hZTFjOTA5Yi1jNjk5LTQxZmItOTJkZS01ZGNhM2Q1YmU5MjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1-RIPB3MHXLBhyjnt0pXudyeOtKJ2S9qWslojV1Urdg" align="center" width="100" alt="Project icon">
 
 ### Best Regards for you
 
