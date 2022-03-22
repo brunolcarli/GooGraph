@@ -52,7 +52,7 @@ I intend to relase in one or more jupyter notebook(s):
 ### Good luck for me.
 
 
-<img src="https://i.gifer.com/Skj2.gif" align="center" width="100" alt="Project icon">
+<img src="https://i.gifer.com/2vDa.gif" align="center" width="100" alt="Project icon">
 
 ### Best Regards for you
 
