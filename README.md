@@ -31,7 +31,7 @@ I intend to relase in one or more jupyter notebook(s):
     + Binary search;
     + Depth-first search;
     + breadth-first search;
-    + djikstra;
+    + dijkstra;
     + A*;
 - Sorting algorithms:
     + Bubble sort;
