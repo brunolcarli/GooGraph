@@ -26,7 +26,7 @@ Even if the professionals from Google engineering team that will validate my ski
 I intend to relase in one or more jupyter notebook(s):
 
 - Graph construction;
-- Graph visualisation;
+- Graph visualization;
 - Search algorithms:
     + Binary search;
     + Depth-first search;
