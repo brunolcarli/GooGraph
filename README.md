@@ -43,6 +43,7 @@ I intend to relase in one or more jupyter notebook(s):
 <hr />
 
 
+> A thousand hugs for Bridget MacVicar whos being my very great recruiter and supporter <3
 
 
 
