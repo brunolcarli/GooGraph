@@ -4,16 +4,16 @@
 
 # Goograph
 
-*Algorithms and data structures exercices*
+*A road to Google SWE training, exercises and practices*
 </td></tr>
 
 </table>    
 
 <div align="center">
 
-This project aims to register studies of omputer science foundations, data structures, graph and search algorithms. These are some Computer  Science intermediate themes requested for **Google** Software Engineer role technical interviews.
+This project aims to register studies of computer science fundamentals like data structures, graphs, sorting and search algorithms. These are some computer science intermediate themes requested for **Google** Software Engineer role technical interviews.
 
-Even if the professionals from Google engineering team that will validate my skills decide that they won't hire me, at least this may be a great study case to be registered here and serving to hone my alorithmic skills.
+Even if the professionals from Google engineering team that will validate my skills decide that they won't hire me, at least this may be a great study case to be registered here and serving to hone my algorithmic skills and possibly help other future candidates.
 
 </div>
 
@@ -28,15 +28,16 @@ I intend to relase in one or more jupyter notebook(s):
 - Graph construction;
 - Graph visualization;
 - Search algorithms:
-    + Binary search;
     + Depth-first search;
     + breadth-first search;
     + dijkstra;
     + A*;
 - Sorting algorithms:
-    + Bubble sort;
+    + Insertion Sort;
+    + Selection sort
     + Quicksort;
     + Shell sort;
+    + Merge sort;
 - Heaps;
 - Queues;
 
